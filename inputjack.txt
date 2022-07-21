@@ -1,0 +1,9 @@
+push ass
+push 2
+bind
+push ass
+neg
+toString
+println
+toString
+println
